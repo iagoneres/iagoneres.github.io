@@ -15,14 +15,14 @@ ul.nav{
 
 .jumbotron {
   text-align: center;
-  background-image: url('../images/recife_2_wb.jpg');
+  background-image: url('../images/recife_bw.jpg');
   background-size: cover;
   color: white;
 }
 
 .jumbotron h1{
   margin-top: 0px;
-  margin-bottom: 50px;
+  margin-bottom: 50px;  
 }
 
 .jumbotron p{
